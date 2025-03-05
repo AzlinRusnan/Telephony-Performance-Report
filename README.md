@@ -53,3 +53,12 @@ The report categorizes performance across different regions:
 Each region has varying performance levels based on call volume, SLA adherence, and efficiency in handling customer interactions.
 
 ## Sample Dashboard / Report Preview
+![1](images/telsla.png)
+
+## Key Insights
+- Overall SLA Compliance is High (97.31%) → Most calls were handled within SLA.
+- High Abandonment Rate in Some Regions:
+  - Poland (84.62%) and OOH (Out-of-Hours, 8.45%) show a high percentage of abandoned calls after SLA.
+  - Indicates possible long wait times or staffing issues.
+- United States and India Handle Large Call Volumes → Both regions have a high number of answered calls.
+- Average Handling Time Varies Across Countries → Some regions have significantly longer handling times, impacting efficiency.
